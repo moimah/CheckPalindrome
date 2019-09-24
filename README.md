@@ -1,4 +1,4 @@
-# GsonSample
+# CheckPalindrome
 
 _Implementar una aplicación  JavaFX que compruebe si una palabra es palindromo o no_
 
